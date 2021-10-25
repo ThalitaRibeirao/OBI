@@ -4,3 +4,6 @@
 <a href="https://olimpiada.ic.unicamp.br/static/extras/obi2021/provas/ProvaOBI2021_f1ps.pdf"  >PDF OBI</a>
 
 </p>
+
+## Tecnologias utiizadas
+- C
